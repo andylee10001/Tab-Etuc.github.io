@@ -67,7 +67,7 @@
 
   <url>
     <loc>https://tab-etuc.github.io/</loc>
-    <lastmod>2022-11-18</lastmod>
+    <lastmod>2022-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,21 +75,21 @@
   
   <url>
     <loc>https://tab-etuc.github.io/tags/Tauri/</loc>
-    <lastmod>2022-11-18</lastmod>
+    <lastmod>2022-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://tab-etuc.github.io/tags/%E9%96%8B%E7%99%BC%E6%97%A5%E8%AA%8C/</loc>
-    <lastmod>2022-11-18</lastmod>
+    <lastmod>2022-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://tab-etuc.github.io/tags/%E7%B4%80%E5%BF%B5%E7%94%A8-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2022-11-18</lastmod>
+    <lastmod>2022-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
